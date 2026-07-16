@@ -1,5 +1,3 @@
-# Hi, I'm Norbert👋
-
 **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 **Backend:** Django, FastAPI, Flask  
 **Database:** PostgreSQL, MySQL, MongoDB  
