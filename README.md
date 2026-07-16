@@ -11,24 +11,19 @@
 
 ## Projects
 
-### Crop Management Documentation Platform
+### 🌱 Crop Management Documentation Platform
 
-A web application designed for collecting, aggregating, and analyzing agricultural data.
-The platform allows users to manage crop information, generate detailed reports, and visualize data through interactive charts and dashboards.
+Web application for collecting, analyzing, and visualizing agricultural data with reporting capabilities.
 
 **Features:**
-- Crop data management system
-- Interactive charts and dashboards
-- Responsive UI design
-- Performance testing with JMeter
-- PDF raports creator
+- Crop data management
+- Data visualization & dashboards
+- PDF report generation
+- Responsive UI
+- Performance, automated and unit testing
 
-**Technologies:**
-- Django
-- HTML, CSS, Bootstrap
-- PostgreSQL
-- Docker + MicroK8s
-- pytest, Selenium, JMeter
+**Stack:**
+Django · HTML/CSS · Bootstrap · PostgreSQL · Docker · MicroK8s · pytest · Selenium · JMeter
 
 ⚡Live Demo: [farmlyzer.pl](https://farmlyzer.pl/)
 
@@ -45,11 +40,8 @@ A RESTful API designed to calculate game statistics based on player data.
 - API Documentation (Swagger)
 - Automated testing with pytest
 
-**Technologies:**
-- FastAPI
-- Docker
-- pytest
-
+**Stack:**
+FastAPI · Docker · pytest
 
 📂 Repository: [link](https://github.com/NorbertG0/margonem-calc-REST-API)
 
@@ -67,9 +59,7 @@ A Discord bot that provides real-time weather information using external weather
 - Location-based weather queries
 - Generated weather charts and data visualizations
 
-**Technologies:**
-- Python
-- Discord.py
+**Stack:**
+Python · Discord.py
 
-  
 📂 Repository: [link](https://github.com/NorbertG0/Discord-Weather-Bot)
