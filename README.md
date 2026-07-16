@@ -1,21 +1,10 @@
 # Hi, I'm Norbert👋
 
-### Technologies & Tools
-
-#### Frontend
-- HTML, CSS, JS, Bootstrap
-  
-#### Backend
-- Django, FastAPI, Flask
-
-#### Database
-- PostgreSQL, MySQL, MongoDB
-
-#### Tools
-- Git & GitHub/GitLab, Docker, VS Code, PyCharm
-
-#### Tests
-- Selenium, pytest, JMeter
+**Frontend:** HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Django, FastAPI, Flask  
+**Database:** PostgreSQL, MySQL, MongoDB  
+**Testing:** pytest, Selenium, JMeter  
+**Tools:** Git, GitHub/GitLab, Docker, VS Code, PyCharm
 
 
 ---
