@@ -29,7 +29,7 @@ Django · HTML/CSS · Bootstrap · PostgreSQL · Docker · MicroK8s · pytest ·
 
 ---
 
-### REST API - game stats calculator
+### 📊 REST API - game stats calculator
 
 A RESTful API designed to calculate game statistics based on player data.
 
@@ -47,7 +47,7 @@ FastAPI · Docker · pytest
 
 ---
 
-### Weather Discord bot
+### 🌤️ Weather Discord bot
 
 A Discord bot that provides real-time weather information using external weather API. The bot allows users to check current weather conditions and forecasts directly from Discord channels through simple commands.
 
