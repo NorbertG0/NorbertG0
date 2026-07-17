@@ -9,7 +9,7 @@
 
 ## Projects
 
-### 🌱 [Crop Management Documentation Platform](https://farmlyzer.pl/)
+### 🌱 [Crop Management Documentation Platform](https://github.com/NorbertG0/farmlyzer-webapp)
 
 ### 📊 [REST API - game stats calculator](https://github.com/NorbertG0/margonem-calc-REST-API)
 
