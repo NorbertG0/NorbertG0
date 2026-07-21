@@ -1,5 +1,5 @@
 **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-**Backend:** Django, FastAPI, Flask  
+**Backend:** Django/DRF, FastAPI, Flask  
 **Database:** PostgreSQL, MySQL, MongoDB  
 **Testing:** pytest, Selenium, JMeter  
 **Tools:** Git, GitHub/GitLab, Docker, VS Code, PyCharm
